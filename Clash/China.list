@@ -18,12 +18,9 @@ payload:
   - 'DOMAIN-SUFFIX,xiami.net'
 
   # > Tencent
-  - 'User-Agent,MicroMessenger%20Client'
-  - 'User-Agent,WeChat*'
   - 'DOMAIN-SUFFIX,gtimg.com'
   - 'DOMAIN-SUFFIX,idqqimg.com'
   - 'DOMAIN-SUFFIX,igamecj.com'
   - 'DOMAIN-SUFFIX,myapp.com'
   - 'DOMAIN-SUFFIX,qq.com'
   - 'DOMAIN-SUFFIX,tencent.com'
-  
