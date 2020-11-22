@@ -1,4 +1,4 @@
-payload: 
+payload:  
   # > Alibaba
   - 'DOMAIN-SUFFIX,alibaba.com'
   - 'DOMAIN-SUFFIX,alicdn.com'
