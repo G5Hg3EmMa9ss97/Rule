@@ -1,0 +1,4 @@
+payload:  
+  # > 2worlds
+  - 'DOMAIN-SUFFIX,netmarble.com'
+  - 'DOMAIN-SUFFIX,netmarble.net'
